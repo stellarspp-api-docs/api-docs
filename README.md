@@ -7,7 +7,7 @@ This repository centralises the **public documentation** for the future StellarA
 
 ---
 
-## ?? What is StellarApp?
+## What is StellarApp?
 
 StellarApp connects **employees** and **employers** through:
 
@@ -18,19 +18,19 @@ StellarApp connects **employees** and **employers** through:
 
 Official production website:
 
-?? https://www.stellar-app.net
+https://www.stellar-app.net
 
 Main public landing in Spanish:
 
-?? https://www.stellar-app.net/es
+https://www.stellar-app.net/es
 
-ìHow it worksî (Spanish guide):
+How it worksî (Spanish guide):
 
-?? https://www.stellar-app.net/es/how-it-works
+https://www.stellar-app.net/es/how-it-works
 
 ---
 
-## ?? API Vision
+## API Vision
 
 The future StellarApp API is designed to:
 
@@ -40,20 +40,20 @@ The future StellarApp API is designed to:
 
 Planned resource families (draft):
 
-- `/employees` ñ professional profiles, skills, reviews  
-- `/employers` ñ companies, branches, job offers  
-- `/reviews` ñ ratings from customers and employers  
-- `/jobs` ñ job offers, applications and status  
-- `/recognitions` ñ employee-of-the-month / employee-of-the-year events  
+- `/employees`  professional profiles, skills, reviews  
+- `/employers`  companies, branches, job offers  
+- `/reviews` ratings from customers and employers  
+- `/jobs`  job offers, applications and status  
+- `/recognitions`  employee-of-the-month / employee-of-the-year events  
 
 ---
 
-## ?? Related pages
+## Related pages
 
-- Jobs in Spain (SEO ñ English):  
+- Jobs in Spain:  
   https://www.stellar-app.net/jobs-in-spain  
 
-- Empleo en EspaÒa (SEO ñ Spanish):  
+- Empleo en EspaÒa:  
   https://www.stellar-app.net/empleo-en-espana  
 
 - How StellarApp works:  
