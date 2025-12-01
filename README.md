@@ -59,3 +59,5 @@ Planned resource families (draft):
 - How StellarApp works:  
   https://www.stellar-app.net/es/how-it-works
 
+
+For more details, visit the official platform: https://www.stellar-app.net
